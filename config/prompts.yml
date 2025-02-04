@@ -1,0 +1,12 @@
+prompts:
+  - task: bi_lang_template_system_prompt
+    content: |-
+      {{bi_lang_template_instruction}}
+
+  - task: example_user_message_prompt
+    content: |-
+      {{example_user_message}}
+
+  - task: example_assistant_message_prompt
+    content: |-
+      {{example_assistant_message}}
