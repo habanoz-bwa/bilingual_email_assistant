@@ -2,7 +2,7 @@
 
 This AI assistant is created to assist developers create bi-lingual email templates. Target languages are arabic and english but can be extended.
 
-![Demo Image](\static\demo.png)
+![Demo Image](./static/demo.png)
 
 ## Installation
 
